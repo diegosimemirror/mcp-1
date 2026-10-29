@@ -86,7 +86,7 @@ Como producto de prueba, creamos un reporte en Word, `informe_inflacion_bcrp.doc
 - Repetir la corrida de crédito para confirmar el acierto.
 - Filtrar la búsqueda por frecuencia, para no devolver series anuales en preguntas mensuales.
 - Corregir la frase de atribución en el reporte Word.
-- Comprobar dos cifras de la tabla en la página web de estadisticas.bcrp.gob.pe, con su enlace (lo exige la consigna).
+- ~~Comprobar dos cifras en la web del BCRP~~ **Hecho (28 oct 2026):** IPC de setiembre de 2026 (4.55 %) y crédito MN de mayo de 2026 (295 907 millones de soles) coinciden con la web. Los enlaces están en `informe.md`, sección 6.
 
 ## 8. Archivos de la entrega
 

@@ -54,10 +54,10 @@ Advertencia: esta corrida corrige el caso, pero no prueba que el servidor nunca 
 
 ## 6. Dos cifras comprobadas en la web del BCRP
 
-**Pendiente.** Las cifras de la tabla salen de la API oficial del BCRP (`estadisticas.bcrp.gob.pe/estadisticas/series/api`), no de la página web. La consigna pide comprobar dos cifras directamente en la web. Hay que anotar aquí la tabla y el enlace donde se vieron:
+Las cifras de la tabla salen de la API oficial del BCRP (`estadisticas.bcrp.gob.pe/estadisticas/series/api`). Para cumplir la consigna, las comprobamos directamente en la página web de BCRPData el 28 de octubre de 2026:
 
-- Cifra 1: ______ · serie ______ · enlace ______
-- Cifra 2: ______ · serie ______ · enlace ______
+- **Cifra 1:** inflación de 12 meses de Lima en setiembre de 2026 = **4.55 %**. Serie `PN01273PM`. Enlace: https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/resultados/PN01273PM/html/2025-10/2026-09 . Coincide con la API.
+- **Cifra 2:** crédito del sistema bancario al sector privado en moneda nacional, mayo de 2026 = **295 907 millones de soles** (la web muestra cifras en millones redondeadas). Serie `PN00522MM`. Enlace: https://estadisticas.bcrp.gob.pe/estadisticas/series/mensuales/resultados/PN00522MM/html/2026-01/2026-06 . Coincide con la API (295 907.25).
 
 ## 7. Conclusión
 
